@@ -1,9 +1,16 @@
-**Since we moved to React, this library is no longer maintained.**
 
 Parse Angular Patch
 =========
 
-Brought to you by [Try.com](https://www.try.com)
+Fork comments
+-------------
+
+Since this is the best angular-patch I've stumbled across, I forked it and fixed it since the guys no longer maintain it.
+
+Hope it works.
+
+
+Originally brought to you by [Try.com](https://www.try.com)
 
   - Seamless Parse integration with AngularJS, using promises ($q)
   - Never worry about $scope digests again
